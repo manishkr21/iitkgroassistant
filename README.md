@@ -109,16 +109,16 @@ where projectname is the name of the venv to use as the ipython kernel.
 ### demo screenshots
 
 1. LLM Response
-   <kbd> <img src="demo/1.png" /> </kbd>
+   <kbd> <img src="demo/d1.png" /> </kbd>
 
 2. Pension Database (Supposing Already exists, somewhere)
-   <kbd> <img src="demo/2.png" /> </kbd>
+   <kbd> <img src="demo/d2.png" /> </kbd>
 
 3. MNREGA Database
-   <kbd> <img src="demo/3.png" /> </kbd>
+   <kbd> <img src="demo/d3.png" /> </kbd>
 
 4. MNREGA Database
-   <kbd> <img src="demo/4.png" /> </kbd>
+   <kbd> <img src="demo/d4.png" /> </kbd>
 
 
 ### Interested in Contributing?
