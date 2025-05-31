@@ -1,0 +1,415 @@
+{
+  "workers": [
+    {
+      "worker_id": "W12345678",
+      "job_card_number": "RJ-12-001-003-001/001",
+      "name": "Sita Devi",
+      "father_or_spouse_name": "Ram Lal",
+      "gender": "Female",
+      "age": 36,
+      "caste": "SC",
+      "aadhaar_linked": true,
+      "mobile": "9876543210",
+      "village": "Rampur",
+      "block": "Jhunjhunu",
+      "district": "Jhunjhunu",
+      "state": "Rajasthan",
+      "bank_account": "123456789012",
+      "bank_name": "State Bank of India",
+      "ifsc": "SBIN0000123",
+      "job_card_status": "Active",
+      "household_id": "HH-RJ-12-001-003-001"
+    },
+    {
+      "worker_id": "W87654321",
+      "job_card_number": "RJ-12-001-003-001/002",
+      "name": "Ram Kishan",
+      "father_or_spouse_name": "Shyam Lal",
+      "gender": "Male",
+      "age": 42,
+      "caste": "OBC",
+      "aadhaar_linked": true,
+      "mobile": "9123456780",
+      "village": "Khetri",
+      "block": "Buhana",
+      "district": "Jhunjhunu",
+      "state": "Rajasthan",
+      "bank_account": "987654321012",
+      "bank_name": "Punjab National Bank",
+      "ifsc": "PUNB0456700",
+      "job_card_status": "Active",
+      "household_id": "HH-RJ-12-001-003-002"
+    },
+    {
+      "worker_id": "W23456789",
+      "job_card_number": "RJ-12-001-003-001/003",
+      "name": "Laxmi Bai",
+      "father_or_spouse_name": "Mohan Lal",
+      "gender": "Female",
+      "age": 38,
+      "caste": "SC",
+      "aadhaar_linked": false,
+      "mobile": "9988776655",
+      "village": "Surajgarh",
+      "block": "Surajgarh",
+      "district": "Jhunjhunu",
+      "state": "Rajasthan",
+      "bank_account": "234567890123",
+      "bank_name": "Bank of Baroda",
+      "ifsc": "BARB0JHUNJN",
+      "job_card_status": "Active",
+      "household_id": "HH-RJ-12-001-003-003"
+    },
+    {
+      "worker_id": "W34567890",
+      "job_card_number": "RJ-12-001-003-001/004",
+      "name": "Karan Singh",
+      "father_or_spouse_name": "Jai Singh",
+      "gender": "Male",
+      "age": 29,
+      "caste": "General",
+      "aadhaar_linked": true,
+      "mobile": "9876501234",
+      "village": "Mandawa",
+      "block": "Jhunjhunu",
+      "district": "Jhunjhunu",
+      "state": "Rajasthan",
+      "bank_account": "345678901234",
+      "bank_name": "ICICI Bank",
+      "ifsc": "ICIC0000123",
+      "job_card_status": "Active",
+      "household_id": "HH-RJ-12-001-003-004"
+    },
+    {
+      "worker_id": "W45678901",
+      "job_card_number": "RJ-12-001-003-001/005",
+      "name": "Gita Kumari",
+      "father_or_spouse_name": "Suresh Ram",
+      "gender": "Female",
+      "age": 33,
+      "caste": "ST",
+      "aadhaar_linked": true,
+      "mobile": "7012345678",
+      "village": "Nawalgarh",
+      "block": "Nawalgarh",
+      "district": "Jhunjhunu",
+      "state": "Rajasthan",
+      "bank_account": "456789012345",
+      "bank_name": "Union Bank of India",
+      "ifsc": "UBIN0554321",
+      "job_card_status": "Active",
+      "household_id": "HH-RJ-12-001-003-005"
+    },
+    {
+      "worker_id": "W99999999",
+      "job_card_number": "RJ-12-001-999-001",
+      "name": "Dummy Worker",
+      "father_or_spouse_name": "Dummy Parent",
+      "gender": "Male",
+      "age": 40,
+      "caste": "OBC",
+      "aadhaar_linked": false,
+      "mobile": "9000000000",
+      "village": "Loharai",
+      "block": "Dummy",
+      "district": "Dummy",
+      "state": "Rajasthan",
+      "bank_account": "000000000000",
+      "bank_name": "Dummy Bank",
+      "ifsc": "DUMM0000000",
+      "job_card_status": "Inactive",
+      "household_id": "HH-RJ-12-001-999-001"
+    },
+    {
+      "worker_id": "W12345678",
+      "job_card_number": "RJ-12-001-003-001/001",
+      "name": "Shanker Das",
+      "father_or_spouse_name": "Ram Lal",
+      "gender": "Male",
+      "age": 40,
+      "caste": "OBC",
+      "aadhaar_linked": false,
+      "mobile": "9000000000",
+      "village": "Gram Guneri",
+      "block": "Khargoda",
+      "district": "Gaya",
+      "state": "Bihar",
+      "bank_account": "000000000000",
+      "bank_name": "Dummy Bank",
+      "ifsc": "DUMM0000000",
+      "job_card_status": "Inactive",
+      "household_id": "HH-RJ-12-001-999-001"
+    }
+  ],
+  "work": [
+  {
+    "work_id": "WORK-2024-0001",
+    "work_name": "Desilting of Pond",
+    "start_date": "2025-04-01",
+    "end_date": "2025-04-10",
+    "wage_per_day": 231,
+    "status": "Completed",
+    "location": "Rampur",
+    "block": "Bhagwanpur",
+    "district": "Varanasi",
+    "state": "Uttar Pradesh",
+    "workers": [
+      {
+        "worker_id": "W12345678",
+        "name": "Sita Devi",
+        "total_days": 10,
+        "wage_per_day": 231,
+        "total_amount": 2310,
+        "paid_amount": 2310
+      },
+      {
+        "worker_id": "W34567890",
+        "name": "Karan Singh",
+        "total_days": 8,
+        "wage_per_day": 231,
+        "total_amount": 1848,
+        "paid_amount": 1848
+      }
+    ]
+  },
+  {
+    "work_id": "WORK-2024-0002",
+    "work_name": "Tree Plantation",
+    "start_date": "2024-07-05",
+    "end_date": "2024-07-10",
+    "wage_per_day": 231,
+    "status": "Completed",
+    "location": "Khargoda",
+    "block": "Gram Guneri",
+    "district": "gaya",
+    "state": "bihar",
+    "workers": [
+      {
+        "worker_id": "W23456789",
+        "name": "Laxmi Bai",
+        "total_days": 6,
+        "wage_per_day": 231,
+        "total_amount": 1386,
+        "paid_amount": 1386
+      },
+      {
+        "worker_id": "W45678901",
+        "name": "Gita Kumari",
+        "total_days": 5,
+        "wage_per_day": 231,
+        "total_amount": 1155,
+        "paid_amount": 1155
+      },
+      {
+        "worker_id": "W99999999",
+        "name": "Shankar Das",
+        "total_days": 4,
+        "wage_per_day": 231,
+        "total_amount": 924,
+        "paid_amount": 0
+      }
+    ]
+  },
+  {
+    "work_id": "WORK-2024-0003",
+    "work_name": "Road Maintenance",
+    "start_date": "2025-03-10",
+    "end_date": "2025-03-20",
+    "wage_per_day": 231,
+    "status": "Completed",
+    "location": "Bhikharipur",
+    "block": "Harahua",
+    "district": "Varanasi",
+    "state": "Uttar Pradesh",
+    "workers": [
+      {
+        "worker_id": "W45678901",
+        "name": "Gita Kumari",
+        "total_days": 9,
+        "wage_per_day": 231,
+        "total_amount": 2079,
+        "paid_amount": 2079
+      }
+    ]
+  },
+  {
+    "work_id": "WORK-2024-0004",
+    "work_name": "Pond Cleaning",
+    "start_date": "2025-01-15",
+    "end_date": "2025-01-25",
+    "wage_per_day": 231,
+    "status": "Completed",
+    "location": "Sarnath",
+    "block": "Kashi Vidyapeeth",
+    "district": "Varanasi",
+    "state": "Uttar Pradesh",
+    "workers": [
+      {
+        "worker_id": "W87654321",
+        "name": "Ram Kishan",
+        "total_days": 11,
+        "wage_per_day": 231,
+        "total_amount": 2541,
+        "paid_amount": 2541
+      }
+    ]
+  },
+  {
+    "work_id": "WORK-2024-0005",
+    "work_name": "Canal Desilting",
+    "start_date": "2025-02-01",
+    "end_date": "2025-02-10",
+    "wage_per_day": 231,
+    "status": "Completed",
+    "location": "Kandawa",
+    "block": "Arajiline",
+    "district": "Varanasi",
+    "state": "Uttar Pradesh",
+    "workers": [
+      {
+        "worker_id": "W99999999",
+        "name": "Dummy Worker",
+        "total_days": 5,
+        "wage_per_day": 231,
+        "total_amount": 1155,
+        "paid_amount": 0
+      }
+    ]
+  },
+  {
+    "work_id": "3156007038/WC/958486255/823332740",
+    "work_name": "POKHARI KHUDAI KARY (GATA NO 8,105,173,103)",
+    "start_date": "2022-08-01",
+    "end_date": "2022-08-31",
+    "financial_year": "2022-2023",
+    "status": "Completed",
+    "location": "Gata Pokhari",
+    "block": "Chiraigaon",
+    "district": "Varanasi",
+    "state": "Uttar Pradesh",
+    "workers": [
+      {
+        "worker_id": "W12345678",
+        "name": "Sita Devi",
+        "total_days": 15,
+        "wage_per_day": 231,
+        "total_amount": 3465,
+        "paid_amount": 3465
+      },
+      {
+        "worker_id": "W45678901",
+        "name": "Gita Kumari",
+        "total_days": 10,
+        "wage_per_day": 231,
+        "total_amount": 2310,
+        "paid_amount": 2000
+      }
+    ]
+  },
+  {
+    "work_id": "0513007013/RC/20786054",
+    "work_name": "ROAD KHUDAI KARY (GATA NO 8,105,173,103)",
+    "start_date": "2022-09-01",
+    "end_date": "2022-09-30",
+    "financial_year": "2022-2023",
+    "status": "Completed",
+    "location": "Gata Road",
+    "block": "Chiraigaon",
+    "district": "East Champaran",
+    "state": "Bihar",
+    "workers": [
+      {
+        "worker_id": "W23456789",
+        "name": "Laxmi Bai",
+        "total_days": 20,
+        "wage_per_day": 231,
+        "total_amount": 4620,
+        "paid_amount": 4620
+      },
+      {
+        "worker_id": "W34567890",
+        "name": "Karan Singh",
+        "total_days": 18,
+        "wage_per_day": 231,
+        "total_amount": 4158,
+        "paid_amount": 4158
+      }
+    ]
+  },
+  {
+    "work_id": "WORK-2022-0004",
+    "work_name": "DRAIN KHUDAI KARY (GATA NO 8,105,173,103)",
+    "work_code": "3156007038/WC/958486255/823332740",
+    "start_date": "2022-10-01",
+    "end_date": "2022-10-31",
+    "financial_year": "2022-2023",
+    "status": "Completed",
+    "location": "Gata Drain",
+    "block": "Chiraigaon",
+    "district": "Varanasi",
+    "state": "Uttar Pradesh",
+    "workers": [
+      {
+        "worker_id": "W87654321",
+        "name": "Ram Kishan",
+        "total_days": 12,
+        "wage_per_day": 231,
+        "total_amount": 2772,
+        "paid_amount": 2772
+      }
+    ]
+  },
+  {
+    "work_id": "0503012001/AV/20442911",
+    "work_name": "N S हाई स्कूल अरैला ढाई एकड़ में खेल का मैदान निर्माण",
+    "start_date": "2022-11-01",
+    "end_date": "2022-11-30",
+    "financial_year": "2022-2023",
+    "status": "Completed",
+    "location": "N S हाई स्कूल",
+    "block": "utardaha",
+    "district": "Bhojpur",
+    "state": "Bihar",
+    "workers": [
+      {
+        "worker_id": "W12345678",
+        "name": "Sita Devi",
+        "total_days": 10,
+        "wage_per_day": 231,
+        "total_amount": 2310,
+        "paid_amount": 0
+      }
+    ]
+  },
+  {
+    "work_id": "1219007024/LD/1000035685",
+    "work_name": "Land development and const of kabristan chabutra mandi khera",
+    "start_date": "2022-12-01",
+    "end_date": "2022-12-31",
+    "financial_year": "2022-2023",
+    "status": "Completed",
+    "location": "Baraya",
+    "block": "Nagina",
+    "district": "Nuh",
+    "state": "Haryana",
+    "workers": [
+      {
+        "worker_id": "W23456789",
+        "name": "Laxmi Bai",
+        "total_days": 12,
+        "wage_per_day": 231,
+        "total_amount": 2772,
+        "paid_amount": 2772
+      },
+      {
+        "worker_id": "W45678901",
+        "name": "Gita Kumari",
+        "total_days": 15,
+        "wage_per_day": 231,
+        "total_amount": 3465,
+        "paid_amount": 3465
+      }
+    ]
+  }
+]
+}

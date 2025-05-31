@@ -1,0 +1,125 @@
+[
+    {
+      "registration_no": "dummy1",
+      "ppo_no": "123",
+      "grievance_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "state": "Odisha",
+      "district": "Ganjam",
+      "ministry": "DOPPW",
+      "recvd_date": "2025-02-22T17:02:18",
+      "closing_date": "2025-03-11",
+      "name": "Dummy Name 1",
+      "type": "pension"
+    },
+    {
+      "registration_no": "dummy2",
+      "ppo_no": "456",
+      "grievance_description": "Pension not credited for the past three months.",
+      "state": "Maharashtra",
+      "district": "Pune",
+      "ministry": "DOPPW",
+      "recvd_date": "2025-01-15T09:30:00",
+      "closing_date": "2025-02-01",
+      "name": "Dummy Name 2",
+      "type": "pension"
+    },
+    {
+      "registration_no": "dummy3",
+      "ppo_no": "789",
+      "grievance_description": "Request for revision of pension as per 7th CPC.",
+      "state": "Kerala",
+      "district": "Ernakulam",
+      "ministry": "DOPPW",
+      "recvd_date": "2025-03-05T14:45:10",
+      "closing_date": "2025-03-20",
+      "name": "Dummy Name 3",
+      "type": "pension"
+    },
+    {
+      "registration_no": "dummy4",
+      "ppo_no": "321",
+      "grievance_description": "Non-receipt of PPO despite retirement 3 months ago.",
+      "state": "Tamil Nadu",
+      "district": "Chennai",
+      "ministry": "DOPPW",
+      "recvd_date": "2025-02-10T11:00:00",
+      "closing_date": "2025-02-25",
+      "name": "Dummy Name 4",
+      "type": "pension"
+    },
+    {
+      "registration_no": "dummy5",
+      "ppo_no": "654",
+      "grievance_description": "Delay in family pension approval.",
+      "state": "Uttar Pradesh",
+      "district": "Lucknow",
+      "ministry": "DOPPW",
+      "recvd_date": "2025-01-28T16:20:35",
+      "closing_date": "2025-02-15",
+      "name": "Dummy Name 5",
+      "type": "pension"
+    },
+
+        {
+          "registration_no": "mnrega1",
+          "ppo_no": "9876",
+          "grievance_description": "Wages not received for the past two weeks under MGNREGA scheme.",
+          "state": "Bihar",
+          "district": "Nalanda",
+          "ministry": "Rural Development",
+          "recvd_date": "2025-01-12T10:15:00",
+          "closing_date": "2025-01-28",
+          "name": "Dummy Name A",
+          "type": "mnrega"
+        },
+        {
+          "registration_no": "mnrega2",
+          "ppo_no": "5432",
+          "grievance_description": "Delay in job card issuance for MGNREGA work.",
+          "state": "Jharkhand",
+          "district": "Ranchi",
+          "ministry": "Rural Development",
+          "recvd_date": "2025-02-05T12:30:20",
+          "closing_date": "2025-02-22",
+          "name": "Dummy Name B",
+          "type": "mnrega"
+        },
+        {
+          "registration_no": "mnrega3",
+          "ppo_no": "1122",
+          "grievance_description": "Work demanded but not provided under the MGNREGA scheme.",
+          "state": "Chhattisgarh",
+          "district": "Raipur",
+          "ministry": "Rural Development",
+          "recvd_date": "2025-03-01T08:00:00",
+          "closing_date": "2025-03-18",
+          "name": "Dummy Name C",
+          "type": "mnrega"
+        },
+        {
+          "registration_no": "mnrega4",
+          "ppo_no": "3344",
+          "grievance_description": "Name missing from muster roll despite working.",
+          "state": "West Bengal",
+          "district": "Murshidabad",
+          "ministry": "Rural Development",
+          "recvd_date": "2025-02-14T17:50:00",
+          "closing_date": "2025-03-01",
+          "name": "Dummy Name D",
+          "type": "mnrega"
+        },
+        {
+          "registration_no": "mnrega5",
+          "ppo_no": "7788",
+          "grievance_description": "Payment stuck due to Aadhaar mismatch in MGNREGA records.",
+          "state": "Odisha",
+          "district": "Koraput",
+          "ministry": "Rural Development",
+          "recvd_date": "2025-01-25T09:45:15",
+          "closing_date": "2025-02-10",
+          "name": "Dummy Name E",
+          "type": "mnrega"
+        }
+          
+  ]
+  
